@@ -15,4 +15,8 @@
 ![Screenshot 2024-03-30 002635](https://github.com/iaf12/Tuberculosis-Detection-from-Chest-Radiography-Images-Using-Deep-Learning-Neural-Networks/assets/72904612/2d9be7f0-cc52-4a1e-8c0f-bced2c18c581)
 
 <h3>Result and Analysis</h3>
+<h4>Literature Review</h4>
 
+![image](https://github.com/iaf12/Tuberculosis-Detection-from-Chest-Radiography-Images-Using-Deep-Learning-Neural-Networks/assets/72904612/71a630cf-92ff-41b3-8971-08782de427e7)
+
+<h4>Own Fine tuning models results</h4>
