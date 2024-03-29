@@ -1,6 +1,20 @@
 # Tuberculosis-Detection-from-Chest-Radiography-Images-Using-Deep-Learning-Neural-Networks
 
-### Hi there I'm Istiaq Ahmmed Fahad. <br> This project have been done for my bachelor thesis in City University, Bangladesh which is going to be published after more improving with the models reliability in no time.
+### Hi there I'm Istiaq Ahmmed Fahad.
+
+<html>
+<head>
+<title>Font Awesome Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<i style="font-size:24px" class="fa">&#xf08c;</i>
+<a href="www.linkedin.com/in/istiaq-ahmmed-fahad" target="_blank">Linkedin Profile</a> 
+</body>
+</html> 
+
+### This project have been done for my bachelor thesis in City University, Bangladesh which is going to be published after more improving with the models reliability in no time.
 
 <p>Tuberculosis is a crucial issue where a lot of space available to improve the treatment quality. we can use our model to detect disease earlier after classifying the Chest X Ray (CXR) image of patients.</p>
 
