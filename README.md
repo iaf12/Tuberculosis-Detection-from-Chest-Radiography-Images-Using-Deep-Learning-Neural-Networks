@@ -4,7 +4,7 @@
 
 <p>Tuberculosis is a crucial issue where a lot of space available to improve the treatment quality. we can use our model to detect disease earlier after classifying the Chest X Ray (CXR) image of patients.</p>
 
-
+<p><br></p>
 <h3>Dataset Description </h3>
 <p>In this Project, a private dataset (200 CXR images) is used which has been collected from International Centre for Diarrheal Disease Research, Bangladesh (ICDDR, B). It has two classes (Normal and TB). Each class has 100 x-ray images. Two data processing approaches are used (a) Cropped, (b) Cropped + CLAHE. Then, to train the models, the datasets are partitioned into Train (70%), Test (15%) and Validation (15%) folders to train and test our DNN models.</p>
 
@@ -14,9 +14,13 @@
 
 ![Screenshot 2024-03-30 002635](https://github.com/iaf12/Tuberculosis-Detection-from-Chest-Radiography-Images-Using-Deep-Learning-Neural-Networks/assets/72904612/2d9be7f0-cc52-4a1e-8c0f-bced2c18c581)
 
+<p><br></p>
 <h3>Result and Analysis</h3>
+
 <h4>Literature Review</h4>
 
 ![image](https://github.com/iaf12/Tuberculosis-Detection-from-Chest-Radiography-Images-Using-Deep-Learning-Neural-Networks/assets/72904612/71a630cf-92ff-41b3-8971-08782de427e7)
 
 <h4>Own Fine tuning models results</h4>
+
+![image](https://github.com/iaf12/Tuberculosis-Detection-from-Chest-Radiography-Images-Using-Deep-Learning-Neural-Networks/assets/72904612/ed58106a-0b84-490d-9204-9dbf8f78efd1)
