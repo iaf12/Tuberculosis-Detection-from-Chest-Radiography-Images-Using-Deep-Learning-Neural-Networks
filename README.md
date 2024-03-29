@@ -11,5 +11,5 @@ In this Project, a private dataset (200 CXR images) is used which has been colle
 ” alt=“an artist's rendition of a black hole in space”>
 
 
-
+![Screenshot 2024-03-29 122241](https://github.com/iaf12/Tuberculosis-Detection-from-Chest-Radiography-Images-Using-Deep-Learning-Neural-Networks/assets/72904612/eafd9283-1906-4639-8c7b-a0fd845cd150)
 
