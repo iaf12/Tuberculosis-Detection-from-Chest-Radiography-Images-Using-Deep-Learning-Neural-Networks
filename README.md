@@ -9,7 +9,7 @@
 </head>
 <body>
   <i class="fa fa-linkedin-square" style="font-size:30px;color:blue"></i>
-  <a href="www.linkedin.com/in/istiaq-ahmmed-fahad" target="_blank">Linkedin Profile</a> 
+  <a href="www.linkedin.com/in/istiaq-ahmmed-fahad">Linkedin Profile</a> 
 </body>
 </html> 
 
