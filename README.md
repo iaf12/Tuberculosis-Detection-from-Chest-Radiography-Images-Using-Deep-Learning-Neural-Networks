@@ -4,15 +4,12 @@
 
 <html>
 <head>
-<title>Font Awesome Icons</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-
-<i class="fa fa-linkedin-square" style="font-size:30px;color:blue"></i>
-<a href="www.linkedin.com/in/istiaq-ahmmed-fahad" target="_blank">Linkedin Profile</a> 
-
+  <i class="fa fa-linkedin-square" style="font-size:30px;color:blue"></i>
+  <a href="www.linkedin.com/in/istiaq-ahmmed-fahad" target="_blank">Linkedin Profile</a> 
 </body>
 </html> 
 
